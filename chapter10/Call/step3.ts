@@ -1,4 +1,4 @@
-import { Money } from "./money/Money";
+import { Money } from "../money/Money";
 
 export class Call {
   constructor(private from: Date, private to: Date){

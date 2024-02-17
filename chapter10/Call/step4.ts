@@ -1,4 +1,4 @@
-import { Money } from "./money/Money";
+import { Money } from "../money/Money";
 import { Call } from "./step3";
 
 class Phone {
